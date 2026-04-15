@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+logs/run.log
+reports/latest_eval.txt
+
+data/_scibert_eval_tmp/
+data/_scibert_eval_saved_tmp/
+data/_scibert_pred_tmp/
+
+*.ckpt
+*.bin
+*.pt
